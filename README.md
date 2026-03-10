@@ -33,4 +33,6 @@ The output voltage will be displayed instantly.
 - CSS
 - JavaScript
 
-## Project Structure
+## Voltage Divider Circuit
+
+![Voltage Divider Circuit](images/voltage-divider-schematic.png)
